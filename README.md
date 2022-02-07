@@ -13,6 +13,6 @@
 
 | Question                                                                          | Difficulty | Category             | Approach                 | Good to review |
 | --------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------------ | -------------- |
-| [BST Constructor](/Easy/sorted-squared-array.md) [website link](https://www.algoexpert.io/questions/BST%20Construction)                          | 🟢         | Arrays               | Two Pointers             | ✅             |
+| [BST Constructor](/Easy/sorted-squared-array.md) [website link](https://www.algoexpert.io/questions/BST%20Construction)                          | 🔵         | BST Trees               | Recursion             | ✅             |
 
 
