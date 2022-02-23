@@ -7,7 +7,7 @@ class BinaryTree:
 
 
 def branchSums(root):
-    ret = []
+	ret = []
 	cusum = 0
 	
 	def recurs(root,cusum):
